@@ -1,0 +1,8 @@
+The recursive fibonacci function was easy to impliment but its efficency is
+subpar. It takes much longer to reach Fib(50) because it has to continue to
+call on itself in an exponential manner. 
+
+The non-recursive loop based function was difficult to impliment and getting
+it to work correctly took some trial and error, but once running proved to
+be much more efficent in terms of time to calculate Fib(50) in that it only
+took 1 microsecond compared to the recursive's 21 full seconds. 
